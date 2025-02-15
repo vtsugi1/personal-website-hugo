@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vini&#39;s Data Engineering Portfolio</title>
-    <link>http://localhost:1313/</link>
+    <link>https://vtsugi1.github.io/personal-website-hugo/</link>
     <description>Recent content on Vini&#39;s Data Engineering Portfolio</description>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Feb 2025 16:06:43 +1300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vtsugi1.github.io/personal-website-hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://vtsugi1.github.io/personal-website-hugo/about/</link>
       <pubDate>Sat, 15 Feb 2025 16:06:43 +1300</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;👋 Hi, I&amp;rsquo;m Vini! I work as a &lt;strong&gt;Data Engineer&lt;/strong&gt; and have experience with &lt;strong&gt;dbt, SQL, Python, and Databricks.&lt;/strong&gt;&lt;br&gt;
-This website showcases some of my projects and work in &lt;strong&gt;data engineering, analytics, and automation.&lt;/strong&gt;&lt;/p&gt;</description>
+      <guid>https://vtsugi1.github.io/personal-website-hugo/about/</guid>
+      <description>&lt;p&gt;👋 Hi, I&amp;rsquo;m Vini! I work as a &lt;strong&gt;Data Engineer&lt;/strong&gt; and have experience with &lt;strong&gt;dbt, SQL, Python, and Databricks.&lt;/strong&gt;&lt;br&gt;&#xA;This website showcases some of my projects and work in &lt;strong&gt;data engineering, analytics, and automation.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
+      <link>https://vtsugi1.github.io/personal-website-hugo/contact/</link>
       <pubDate>Sat, 15 Feb 2025 16:06:27 +1300</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;📧 &lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:your.email@example.com&#34;&gt;your.email@example.com&lt;/a&gt;&lt;br&gt;
-🐙 &lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/yourusername&#34;&gt;github.com/yourusername&lt;/a&gt;&lt;br&gt;
-💼 &lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://linkedin.com/in/yourname&#34;&gt;linkedin.com/in/yourname&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://vtsugi1.github.io/personal-website-hugo/contact/</guid>
+      <description>&lt;p&gt;📧 &lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:your.email@example.com&#34;&gt;your.email@example.com&lt;/a&gt;&lt;br&gt;&#xA;🐙 &lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/yourusername&#34;&gt;github.com/yourusername&lt;/a&gt;&lt;br&gt;&#xA;💼 &lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://linkedin.com/in/yourname&#34;&gt;linkedin.com/in/yourname&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://vtsugi1.github.io/personal-website-hugo/projects/</link>
       <pubDate>Sat, 15 Feb 2025 16:01:06 +1300</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h3 id=&#34;-featured-projects&#34;&gt;🚀 Featured Projects&lt;/h3&gt;
-&lt;h4 id=&#34;-project-name&#34;&gt;📊 &lt;strong&gt;[Project Name]&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;A brief description of the project, tools used, and a &lt;strong&gt;link to GitHub&lt;/strong&gt;.&lt;/p&gt;</description>
+      <guid>https://vtsugi1.github.io/personal-website-hugo/projects/</guid>
+      <description>&lt;h3 id=&#34;-featured-projects&#34;&gt;🚀 Featured Projects&lt;/h3&gt;&#xA;&lt;h4 id=&#34;-project-name&#34;&gt;📊 &lt;strong&gt;[Project Name]&lt;/strong&gt;&lt;/h4&gt;&#xA;&lt;p&gt;A brief description of the project, tools used, and a &lt;strong&gt;link to GitHub&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
