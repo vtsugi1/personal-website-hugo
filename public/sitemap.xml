@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vtsugi1.github.io/about/</loc>
+    <loc>http://localhost:1313/personal-website-hugo/about/</loc>
     <lastmod>2025-02-15T16:06:43+13:00</lastmod>
   </url><url>
-    <loc>https://vtsugi1.github.io/</loc>
+    <loc>http://localhost:1313/personal-website-hugo/</loc>
     <lastmod>2025-02-15T16:06:43+13:00</lastmod>
   </url><url>
-    <loc>https://vtsugi1.github.io/contact/</loc>
+    <loc>http://localhost:1313/personal-website-hugo/contact/</loc>
     <lastmod>2025-02-15T16:06:27+13:00</lastmod>
   </url><url>
-    <loc>https://vtsugi1.github.io/projects/</loc>
+    <loc>http://localhost:1313/personal-website-hugo/projects/</loc>
     <lastmod>2025-02-15T16:01:06+13:00</lastmod>
   </url><url>
-    <loc>https://vtsugi1.github.io/categories/</loc>
+    <loc>http://localhost:1313/personal-website-hugo/categories/</loc>
   </url><url>
-    <loc>https://vtsugi1.github.io/tags/</loc>
+    <loc>http://localhost:1313/personal-website-hugo/tags/</loc>
   </url>
 </urlset>

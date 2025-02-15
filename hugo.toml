@@ -1,4 +1,4 @@
-baseURL = "https://vtsugi1.github.io/"
+baseURL = "https://vtsugi1.github.io/personal-website-hugo/"
 languageCode = "en-us"
 title = "Vini's Data Engineering Portfolio"
 theme = "PaperMod"
