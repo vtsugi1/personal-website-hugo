@@ -3,7 +3,7 @@ name: Deploy Hugo Site
 on:
   push:
     branches:
-      - master
+      - master  # Adjust if your branch is different
 
 jobs:
   deploy:
@@ -19,10 +19,12 @@ jobs:
           extended: true
 
       - name: Build Site
-        run: hugo --minify
+        run: |
+          cd my-website  # Change to the correct Hugo project directory
+          hugo --minify
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: my-website/public
