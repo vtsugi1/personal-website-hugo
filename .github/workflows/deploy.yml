@@ -3,7 +3,7 @@ name: Deploy Hugo Site
 on:
   push:
     branches:
-      - master  # Adjust if your branch is different
+      - master  # Adjust if your branch name is different
 
 jobs:
   deploy:
@@ -20,7 +20,7 @@ jobs:
 
       - name: Build Site
         run: |
-          cd my-website  # Change to the correct Hugo project directory
+          cd my-website
           hugo --minify
 
       - name: Deploy to GitHub Pages
