@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Vini&#39;s Data Engineering Portfolio</title>
+    <title>Vinicius Tsugi | Data &amp; Analytics Leader</title>
     <link>http://localhost:1313/personal-website-hugo/</link>
-    <description>Recent content on Vini&#39;s Data Engineering Portfolio</description>
+    <description>Recent content on Vinicius Tsugi | Data &amp; Analytics Leader</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Feb 2025 16:06:43 +1300</lastBuildDate>
@@ -13,26 +13,45 @@
       <link>http://localhost:1313/personal-website-hugo/about/</link>
       <pubDate>Sat, 15 Feb 2025 16:06:43 +1300</pubDate>
       <guid>http://localhost:1313/personal-website-hugo/about/</guid>
-      <description>&lt;p&gt;👋 Hi, I&amp;rsquo;m Vini! I work as a &lt;strong&gt;Data Engineer&lt;/strong&gt; and have experience with &lt;strong&gt;dbt, SQL, Python, and Databricks.&lt;/strong&gt;&lt;br&gt;
-This website showcases some of my projects and work in &lt;strong&gt;data engineering, analytics, and automation.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;-hi-im-vinicius-tsugi&#34;&gt;👋 Hi, I&amp;rsquo;m Vinicius Tsugi!&lt;/h1&gt;
+&lt;h2 id=&#34;principal-analyst-at-seek&#34;&gt;Principal Analyst at SEEK&lt;/h2&gt;
+&lt;p&gt;I am a data-driven professional with over 15 years of experience in Digital Analytics and Cloud Analytics platforms. My passion is to develop and nurture a data-driven culture for strategic digital business decisions. I have a hybrid profile with a combination of technical, analytical, and business skills that allows me to bridge the gap between data and decision-making.&lt;/p&gt;
+&lt;h3 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h3&gt;
+&lt;p&gt;I currently work as a &lt;strong&gt;Principal Analyst at SEEK&lt;/strong&gt; where I apply my expertise in Product Management, Monetization, and Data Analytics to drive business outcomes. Previously, I was a &lt;strong&gt;Senior Data &amp;amp; AI Brand Technical Specialist at IBM&lt;/strong&gt;, providing technical expertise to enterprise customers on Data &amp;amp; AI solutions.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
       <link>http://localhost:1313/personal-website-hugo/contact/</link>
       <pubDate>Sat, 15 Feb 2025 16:06:27 +1300</pubDate>
       <guid>http://localhost:1313/personal-website-hugo/contact/</guid>
-      <description>&lt;p&gt;📧 &lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:your.email@example.com&#34;&gt;your.email@example.com&lt;/a&gt;&lt;br&gt;
-🐙 &lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/yourusername&#34;&gt;github.com/yourusername&lt;/a&gt;&lt;br&gt;
-💼 &lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://linkedin.com/in/yourname&#34;&gt;linkedin.com/in/yourname&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;m always interested in connecting with other data professionals and discussing opportunities to collaborate or share insights.&lt;/p&gt;
+&lt;h2 id=&#34;professional-network&#34;&gt;Professional Network&lt;/h2&gt;
+&lt;p&gt;🔗 &lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://linkedin.com/in/vinicius-tsugi&#34;&gt;linkedin.com/in/vinicius-tsugi&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;location&#34;&gt;Location&lt;/h2&gt;
+&lt;p&gt;📍 &lt;strong&gt;Auckland, New Zealand&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Data Analytics &amp;amp; Engineering&lt;/li&gt;
+&lt;li&gt;Cloud Computing (Google Cloud, IBM Cloud)&lt;/li&gt;
+&lt;li&gt;Product Analytics &amp;amp; Management&lt;/li&gt;
+&lt;li&gt;Business Intelligence&lt;/li&gt;
+&lt;li&gt;Machine Learning &amp;amp; AI Applications&lt;/li&gt;
+&lt;li&gt;Digital Analytics&lt;/li&gt;
+&lt;li&gt;Data-Driven Culture Development&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feel free to reach out if you&amp;rsquo;d like to discuss any of these topics or potential collaboration opportunities!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Projects</title>
       <link>http://localhost:1313/personal-website-hugo/projects/</link>
       <pubDate>Sat, 15 Feb 2025 16:01:06 +1300</pubDate>
       <guid>http://localhost:1313/personal-website-hugo/projects/</guid>
-      <description>&lt;h3 id=&#34;-featured-projects&#34;&gt;🚀 Featured Projects&lt;/h3&gt;
-&lt;h4 id=&#34;-project-name&#34;&gt;📊 &lt;strong&gt;[Project Name]&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;A brief description of the project, tools used, and a &lt;strong&gt;link to GitHub&lt;/strong&gt;.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;-professional-projects--speaking-engagements&#34;&gt;🚀 Professional Projects &amp;amp; Speaking Engagements&lt;/h2&gt;
+&lt;h3 id=&#34;-moon-platform-prototype&#34;&gt;📊 &lt;strong&gt;Moon Platform Prototype&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;A collaborative project focused on addressing mobile phone addiction. The Moon Platform helps parents and educators understand the cognitive impacts of mobile applications on children&amp;rsquo;s health, analyzing and rating popular mobile apps based on their impact on attention, memory, social skills, and more.&lt;/p&gt;
+&lt;h3 id=&#34;-google-cloud--marketing-analytics-project&#34;&gt;📈 &lt;strong&gt;Google Cloud + Marketing Analytics Project&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Led one of the biggest Google Cloud + Marketing analytics projects in APAC, utilizing data engineering and machine learning to optimize digital performance programmatically at scale.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
