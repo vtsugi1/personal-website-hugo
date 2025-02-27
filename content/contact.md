@@ -4,6 +4,26 @@ draft = false
 title = 'Contact'
 +++
 
-📧 **Email**: your.email@example.com  
-🐙 **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
-💼 **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+## Get in Touch
+
+I'm always interested in connecting with other data professionals and discussing opportunities to collaborate or share insights.
+
+## Professional Network
+
+🔗 **LinkedIn**: [linkedin.com/in/vinicius-tsugi](https://linkedin.com/in/vinicius-tsugi)
+
+## Location
+
+📍 **Auckland, New Zealand**
+
+## Areas of Interest
+
+- Data Analytics & Engineering
+- Cloud Computing (Google Cloud, IBM Cloud)
+- Product Analytics & Management
+- Business Intelligence
+- Machine Learning & AI Applications
+- Digital Analytics
+- Data-Driven Culture Development
+
+Feel free to reach out if you'd like to discuss any of these topics or potential collaboration opportunities!

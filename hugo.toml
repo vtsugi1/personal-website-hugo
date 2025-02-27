@@ -1,13 +1,13 @@
 baseURL = "https://vtsugi1.github.io/personal-website-hugo/"
 languageCode = "en-us"
-title = "Vini's Data Engineering Portfolio"
+title = "Vinicius Tsugi | Data & Analytics Leader"
 theme = "PaperMod"
 
 [params]
-  author = "Vini"
-  description = "A personal website showcasing my work as a data engineer."
+  author = "Vinicius Tsugi"
+  description = "Principal Analyst at SEEK with 15+ years of experience in Digital Analytics and Cloud Analytics platforms."
   ShowReadingTime = false
-  ShowToc = false
+  ShowToc = true
   defaultTheme = "auto"
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
