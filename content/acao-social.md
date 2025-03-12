@@ -1,7 +1,7 @@
 +++
 date = '2025-03-13T08:16:34+13:00'
 draft = false
-title = 'Açãoo Social'
+title = 'Ação Social'
 +++
 
 Acreditamos que o acesso à saúde mental é um direito de todos. Com esse compromisso, desenvolvemos iniciativas que tornam nossos serviços mais acessíveis para a comunidade e para os profissionais em início de carreira.
