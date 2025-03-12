@@ -2,11 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Clínica de Psicologia</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/personal-website-hugo/</link>
     <description>Recent content on Clínica de Psicologia</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>pt-BR</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Mar 2025 22:31:11 +1300</lastBuildDate>
+    <atom:link href="http://localhost:1313/personal-website-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quem Somos</title>
+      <link>http://localhost:1313/personal-website-hugo/quem-somos/</link>
+      <pubDate>Wed, 12 Mar 2025 22:31:11 +1300</pubDate>
+      <guid>http://localhost:1313/personal-website-hugo/quem-somos/</guid>
+      <description>&lt;p&gt;Aqui você pode contar a história da clínica, apresentar o Doug e a equipe.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/personal-website-hugo/test/</link>
+      <pubDate>Wed, 12 Mar 2025 22:31:11 +1300</pubDate>
+      <guid>http://localhost:1313/personal-website-hugo/test/</guid>
+      <description>&lt;p&gt;help&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
