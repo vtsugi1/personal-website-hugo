@@ -1,46 +1,40 @@
-baseURL = "https://localhost/"
-languageCode = "pt-BR"
-title = "Clínica de Psicologia"
-theme = "PaperMod"
+baseURL = 'https://vtsugi1.github.io/personal-website-hugo/'
+languageCode = 'pt-BR'
+title = 'Clínica de Psicologia'
+theme = 'PaperMod'
 
 [params]
-  author = "Clínica de Psicologia [Nome]"
-  description = "Site institucional da Clínica de Psicologia [Nome]."
+  author = 'Clínica de Psicologia [Nome]'
+  description = 'Site institucional da Clínica de Psicologia [Nome].'
   # Outras opções do tema, se necessário
 
 [menu]
   [[menu.main]]
-    identifier = "quem-somos"
-    name = "Quem Somos"
-    url = "/quem-somos/"
+    identifier = 'quem-somos'
+    name = 'Quem Somos'
+    url = '/quem-somos/'
     weight = 1
 
   [[menu.main]]
-    identifier = "atendimento"
-    name = "Atendimento Psicológico"
-    url = "/atendimento/"
+    identifier = 'atendimento'
+    name = 'Atendimento Psicológico'
+    url = '/atendimento/'
     weight = 2
 
   [[menu.main]]
-    identifier = "supervisao"
-    name = "Supervisão Clínica"
-    url = "/supervisao/"
+    identifier = 'supervisao'
+    name = 'Supervisão Clínica'
+    url = '/supervisao/'
     weight = 3
 
   [[menu.main]]
-    identifier = "acao-social"
-    name = "Ação Social"
-    url = "/acao-social/"
+    identifier = 'contato'
+    name = 'Contato'
+    url = '/contato/'
     weight = 4
 
   [[menu.main]]
-    identifier = "grupos"
-    name = "Grupos Terapêuticos e Estudos"
-    url = "/grupos/"
+    identifier = 'test'
+    name = 'Test'
+    url = '/test/'
     weight = 5
-
-  [[menu.main]]
-    identifier = "contato"
-    name = "Contato"
-    url = "/contato/"
-    weight = 6
