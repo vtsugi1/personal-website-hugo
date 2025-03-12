@@ -2,31 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home on Clínica de Psicologia</title>
-    <link>http://localhost:1313/personal-website-hugo/</link>
+    <link>http://localhost:63452/personal-website-hugo/</link>
     <description>Recent content in Home on Clínica de Psicologia</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 12 Mar 2025 22:49:57 +1300</lastBuildDate>
-    <atom:link href="http://localhost:1313/personal-website-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Mar 2025 08:18:37 +1300</lastBuildDate>
+    <atom:link href="http://localhost:63452/personal-website-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grupos Terapeuticos</title>
+      <link>http://localhost:63452/personal-website-hugo/grupos-terapeuticos/</link>
+      <pubDate>Thu, 13 Mar 2025 08:18:37 +1300</pubDate>
+      <guid>http://localhost:63452/personal-website-hugo/grupos-terapeuticos/</guid>
+      <description>&lt;p&gt;Para ampliar as possibilidades de cuidado e promover o desenvolvimento pessoal e profissional, nossa clínica organiza grupos que incentivam a troca de experiências e o aprendizado coletivo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Navegar nas Margens: A Clínica Junguiana do Transtorno de Personalidade Borderline&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Este grupo terapêutico é dedicado a explorar as nuances do transtorno de personalidade borderline a partir da abordagem junguiana. Em um ambiente seguro e acolhedor, os participantes têm a oportunidade de refletir sobre suas experiências, integrar aspectos do inconsciente e desenvolver estratégias para uma convivência mais equilibrada e autêntica.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Açãoo Social</title>
+      <link>http://localhost:63452/personal-website-hugo/acao-social/</link>
+      <pubDate>Thu, 13 Mar 2025 08:16:34 +1300</pubDate>
+      <guid>http://localhost:63452/personal-website-hugo/acao-social/</guid>
+      <description>&lt;p&gt;Acreditamos que o acesso à saúde mental é um direito de todos. Com esse compromisso, desenvolvemos iniciativas que tornam nossos serviços mais acessíveis para a comunidade e para os profissionais em início de carreira.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Atendimento Psicológico com Valores Reduzidos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Oferecemos sessões de psicoterapia de alta qualidade com valores reduzidos, permitindo que um número maior de pessoas tenha acesso a um cuidado emocional qualificado, mesmo em momentos de vulnerabilidade.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Supervisão Clínica para Recém-Formados&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Atendimento</title>
-      <link>http://localhost:1313/personal-website-hugo/atendimento/</link>
+      <link>http://localhost:63452/personal-website-hugo/atendimento/</link>
       <pubDate>Wed, 12 Mar 2025 22:49:57 +1300</pubDate>
-      <guid>http://localhost:1313/personal-website-hugo/atendimento/</guid>
-      <description>&lt;p&gt;Página sobre atendimento.&lt;/p&gt;</description>
+      <guid>http://localhost:63452/personal-website-hugo/atendimento/</guid>
+      <description>&lt;p&gt;Na nossa clínica, oferecemos um atendimento psicológico humanizado e personalizado, pensado para atender as necessidades específicas de cada pessoa – seja adulto, adolescente ou criança – além de contar com abordagens complementares como a arteterapia.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Para Adultos e Adolescentes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Realizamos sessões individuais (e, quando indicado, em grupo) com profissionais capacitados e atualizados, utilizando métodos que combinam técnicas baseadas em evidências e abordagens integrativas. Nosso objetivo é promover o autoconhecimento, reduzir sintomas de ansiedade, depressão e outras dificuldades emocionais, além de fortalecer as relações interpessoais.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Supervisão</title>
-      <link>http://localhost:1313/personal-website-hugo/supervisao/</link>
+      <link>http://localhost:63452/personal-website-hugo/supervisao/</link>
       <pubDate>Wed, 12 Mar 2025 22:49:07 +1300</pubDate>
-      <guid>http://localhost:1313/personal-website-hugo/supervisao/</guid>
-      <description>&lt;p&gt;Página sobre supervisão&lt;/p&gt;</description>
+      <guid>http://localhost:63452/personal-website-hugo/supervisao/</guid>
+      <description>&lt;p&gt;Reconhecendo a importância do constante aprimoramento na prática clínica, nossa clínica oferece um programa de supervisão clínica destinado a apoiar psicólogos em seu desenvolvimento profissional e na qualidade dos atendimentos.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Supervisão em Grupo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Este espaço colaborativo permite a troca de experiências entre profissionais, a discussão de casos e a construção coletiva de estratégias. A supervisão em grupo promove a reflexão sobre os desafios do cotidiano clínico e o fortalecimento de uma rede de apoio entre colegas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contato</title>
-      <link>http://localhost:1313/personal-website-hugo/contato/</link>
+      <link>http://localhost:63452/personal-website-hugo/contato/</link>
       <pubDate>Wed, 12 Mar 2025 22:46:39 +1300</pubDate>
-      <guid>http://localhost:1313/personal-website-hugo/contato/</guid>
+      <guid>http://localhost:63452/personal-website-hugo/contato/</guid>
       <description>&lt;p&gt;Atendemos nos bairros: [lista de bairros].&lt;/p&gt;
 &lt;h2 id=&#34;entre-em-contato&#34;&gt;Entre Em Contato&lt;/h2&gt;
 &lt;p&gt;Texto.&lt;/p&gt;
@@ -38,9 +61,9 @@
     </item>
     <item>
       <title>Quem Somos</title>
-      <link>http://localhost:1313/personal-website-hugo/quem-somos/</link>
+      <link>http://localhost:63452/personal-website-hugo/quem-somos/</link>
       <pubDate>Wed, 12 Mar 2025 22:31:11 +1300</pubDate>
-      <guid>http://localhost:1313/personal-website-hugo/quem-somos/</guid>
+      <guid>http://localhost:63452/personal-website-hugo/quem-somos/</guid>
       <description>&lt;p&gt;Aqui você pode contar a história da clínica, apresentar o Doug e a equipe.&lt;/p&gt;</description>
     </item>
   </channel>

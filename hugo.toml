@@ -27,8 +27,21 @@ theme = 'PaperMod'
     weight = 3
 
   [[menu.main]]
+    identifier = 'acao-social'
+    name = 'Ação Social'
+    url = '/acao-social/'
+    weight = 4
+
+  [[menu.main]]
+    identifier = 'grupos-terapeuticos'
+    name = 'Grupos Terapêuticos'
+    url = '/grupos-terapeuticos/'
+    weight = 5
+    
+
+  [[menu.main]]
     identifier = 'contato'
     name = 'Contato'
     url = '/contato/'
-    weight = 4
+    weight = 6
 

@@ -2,23 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/personal-website-hugo/atendimento/</loc>
+    <loc>http://localhost:63452/personal-website-hugo/grupos-terapeuticos/</loc>
+    <lastmod>2025-03-13T08:18:37+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63452/personal-website-hugo/acao-social/</loc>
+    <lastmod>2025-03-13T08:16:34+13:00</lastmod>
+  </url><url>
+    <loc>http://localhost:63452/personal-website-hugo/atendimento/</loc>
     <lastmod>2025-03-12T22:49:57+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/personal-website-hugo/supervisao/</loc>
+    <loc>http://localhost:63452/personal-website-hugo/supervisao/</loc>
     <lastmod>2025-03-12T22:49:07+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/personal-website-hugo/contato/</loc>
+    <loc>http://localhost:63452/personal-website-hugo/contato/</loc>
     <lastmod>2025-03-12T22:46:39+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/personal-website-hugo/quem-somos/</loc>
+    <loc>http://localhost:63452/personal-website-hugo/quem-somos/</loc>
     <lastmod>2025-03-12T22:31:11+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/personal-website-hugo/</loc>
+    <loc>http://localhost:63452/personal-website-hugo/</loc>
     <lastmod>2025-03-12T22:22:45+13:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/personal-website-hugo/categories/</loc>
+    <loc>http://localhost:63452/personal-website-hugo/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/personal-website-hugo/tags/</loc>
+    <loc>http://localhost:63452/personal-website-hugo/tags/</loc>
   </url>
 </urlset>
