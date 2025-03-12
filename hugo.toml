@@ -1,0 +1,46 @@
+baseURL = "https://localhost:1313/"
+languageCode = "pt-BR"
+title = "Clínica de Psicologia"
+theme = "PaperMod"
+
+[params]
+  author = "Clínica de Psicologia [Nome]"
+  description = "Site institucional da Clínica de Psicologia [Nome]."
+  # Outras opções do tema, se necessário
+
+[menu]
+  [[menu.main]]
+    identifier = "quem-somos"
+    name = "Quem Somos"
+    url = "/quem-somos/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "atendimento"
+    name = "Atendimento Psicológico"
+    url = "/atendimento/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "supervisao"
+    name = "Supervisão Clínica"
+    url = "/supervisao/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "acao-social"
+    name = "Ação Social"
+    url = "/acao-social/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "grupos"
+    name = "Grupos Terapêuticos e Estudos"
+    url = "/grupos/"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "contato"
+    name = "Contato"
+    url = "/contato/"
+    weight = 6
