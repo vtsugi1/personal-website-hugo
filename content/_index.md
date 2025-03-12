@@ -1,7 +1,7 @@
 +++
 date = '2025-03-12T22:22:45+13:00'
 draft = false
-title = ''
+title = 'Home'
 +++
 
-home la la la
+Texto da homepage

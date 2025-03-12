@@ -1,26 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Clínica de Psicologia</title>
+    <title>Home on Clínica de Psicologia</title>
     <link>http://localhost:1313/personal-website-hugo/</link>
-    <description>Recent content on Clínica de Psicologia</description>
+    <description>Recent content in Home on Clínica de Psicologia</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 12 Mar 2025 22:31:11 +1300</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 22:49:57 +1300</lastBuildDate>
     <atom:link href="http://localhost:1313/personal-website-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atendimento</title>
+      <link>http://localhost:1313/personal-website-hugo/atendimento/</link>
+      <pubDate>Wed, 12 Mar 2025 22:49:57 +1300</pubDate>
+      <guid>http://localhost:1313/personal-website-hugo/atendimento/</guid>
+      <description>&lt;p&gt;Página sobre atendimento.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Supervisão</title>
+      <link>http://localhost:1313/personal-website-hugo/supervisao/</link>
+      <pubDate>Wed, 12 Mar 2025 22:49:07 +1300</pubDate>
+      <guid>http://localhost:1313/personal-website-hugo/supervisao/</guid>
+      <description>&lt;p&gt;Página sobre supervisão&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contato</title>
+      <link>http://localhost:1313/personal-website-hugo/contato/</link>
+      <pubDate>Wed, 12 Mar 2025 22:46:39 +1300</pubDate>
+      <guid>http://localhost:1313/personal-website-hugo/contato/</guid>
+      <description>&lt;p&gt;Atendemos nos bairros: [lista de bairros].&lt;/p&gt;
+&lt;h2 id=&#34;entre-em-contato&#34;&gt;Entre Em Contato&lt;/h2&gt;
+&lt;p&gt;Texto.&lt;/p&gt;
+&lt;h2 id=&#34;contato&#34;&gt;Contato&lt;/h2&gt;
+&lt;p&gt;🔗 &lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://linkedin.com/in/link&#34;&gt;linkedin.com/in/link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Endereço:&lt;/strong&gt; Rua A, 1&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Telefone/Whatsapp:&lt;/strong&gt; (XX) XXXX-XXXX&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;E-mail:&lt;/strong&gt; &lt;a href=&#34;mailto:contato@seudominio.com.br&#34;&gt;contato@seudominio.com.br&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Quem Somos</title>
       <link>http://localhost:1313/personal-website-hugo/quem-somos/</link>
       <pubDate>Wed, 12 Mar 2025 22:31:11 +1300</pubDate>
       <guid>http://localhost:1313/personal-website-hugo/quem-somos/</guid>
       <description>&lt;p&gt;Aqui você pode contar a história da clínica, apresentar o Doug e a equipe.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/personal-website-hugo/test/</link>
-      <pubDate>Wed, 12 Mar 2025 22:31:11 +1300</pubDate>
-      <guid>http://localhost:1313/personal-website-hugo/test/</guid>
-      <description>&lt;p&gt;help&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
