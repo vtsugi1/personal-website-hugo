@@ -12,6 +12,13 @@ Este grupo terapêutico é dedicado a explorar as nuances do transtorno de perso
 
 **Grupo de Escrita Terapêutica para Adolescentes**
 
-A escrita pode ser uma poderosa ferramenta de autoconhecimento e expressão. Nosso grupo de escrita terapêutica foi concebido para adolescentes, oferecendo um espaço criativo onde eles podem expressar sentimentos, compartilhar histórias e construir narrativas que promovam o desenvolvimento emocional, a resiliência e o fortalecimento da identidade.
+Os grupos terapêuticos, em suas diferentes modalidades — seja de apoio, psicoeducação, treino ou psicanalítico — compartilham elementos essenciais. Entre eles, treino de socialização: aprender a hora de falar e de escutar; desenvolvimento da capacidade de empatia e abertura à alteridade. No convívio grupal, percebe-se que a dor que nos aflige também existe no outro, assim como se descobre que desafios que parecem intransponíveis para alguns podem ser enfrentados com mais facilidade por outros.
+O grupo de escrita terapêutica integra esses benefícios da experiência interpessoal ao aprendizado de um recurso expressivo acessível e valioso: a escrita. Por meio de técnicas e ferramentas narrativas, exploramos e construímos narrativas sobre nosso mundo interno.
+A escrita de si é um meio privilegiado para acessar e compreender os próprios processos emocionais. Quando compartilhada em grupo, essa experiência potencializa tanto a expressão individual quanto o desenvolvimento de habilidades relacionais.
 
-Conduzidos por profissionais especializados, nossos grupos são espaços dinâmicos e transformadores, onde a troca e o aprendizado mútuo impulsionam o crescimento pessoal e profissional.
+PARA QUEM É INDICADO?
+
+É indicado para o adolescente que necessite ou deseje desenvolver habilidades expressivas e interpessoais e aprimorar a capacidade de reconhecimento e processamento das próprias emoções.
+- Cada grupo comporta de três a cinco participantes.
+- A abertura de novos grupos acontece sob demanda.
+ 

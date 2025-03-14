@@ -2,26 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home on Clínica de Psicologia</title>
-    <link>http://localhost:63452/personal-website-hugo/</link>
+    <link>http://localhost:1313/personal-website-hugo/</link>
     <description>Recent content in Home on Clínica de Psicologia</description>
     <generator>Hugo -- 0.143.1</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 13 Mar 2025 08:18:37 +1300</lastBuildDate>
-    <atom:link href="http://localhost:63452/personal-website-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Mar 2025 08:17:46 +1300</lastBuildDate>
+    <atom:link href="http://localhost:1313/personal-website-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Equipe</title>
+      <link>http://localhost:1313/personal-website-hugo/equipe/</link>
+      <pubDate>Sat, 15 Mar 2025 08:17:46 +1300</pubDate>
+      <guid>http://localhost:1313/personal-website-hugo/equipe/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Equipe&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nome 1&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Diretor de YYYYYYYY&lt;/p&gt;
+&lt;p&gt;Psicólogo CRP XXXXX&lt;/p&gt;
+&lt;p&gt;Bio&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nome 2&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Diretor de YYYYYYYY&lt;/p&gt;
+&lt;p&gt;Psicólogo CRP XXXXX&lt;/p&gt;
+&lt;p&gt;Incluir texto da bio&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inclusão Social</title>
+      <link>http://localhost:1313/personal-website-hugo/inclusao-social/</link>
+      <pubDate>Sat, 15 Mar 2025 08:14:26 +1300</pubDate>
+      <guid>http://localhost:1313/personal-website-hugo/inclusao-social/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Inclusão Social&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Compreendendo a necessidade crescente de serviços de saúde mental, a Clínica XXX decidiu contribuir para a ampliação do acesso à psicoterapia, criando o programa de atendimento com valores reduzidos. Nesse programa, X% de nossas vagas são permanentemente destinadas à população de baixa renda. Além da psicoterapia individual, o programa também trabalha com vagas de valor reduzido para psicólogos recém-formados em grupos de estudos e grupos de supervisão clínica. Para participar do programa, a pessoa interessada deve entrar em contato com nossa Secretaria, através do número XXX e seguir as etapas do processo que serão informadas.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Grupos Terapeuticos</title>
-      <link>http://localhost:63452/personal-website-hugo/grupos-terapeuticos/</link>
+      <link>http://localhost:1313/personal-website-hugo/grupos-terapeuticos/</link>
       <pubDate>Thu, 13 Mar 2025 08:18:37 +1300</pubDate>
-      <guid>http://localhost:63452/personal-website-hugo/grupos-terapeuticos/</guid>
+      <guid>http://localhost:1313/personal-website-hugo/grupos-terapeuticos/</guid>
       <description>&lt;p&gt;Para ampliar as possibilidades de cuidado e promover o desenvolvimento pessoal e profissional, nossa clínica organiza grupos que incentivam a troca de experiências e o aprendizado coletivo.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Navegar nas Margens: A Clínica Junguiana do Transtorno de Personalidade Borderline&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Este grupo terapêutico é dedicado a explorar as nuances do transtorno de personalidade borderline a partir da abordagem junguiana. Em um ambiente seguro e acolhedor, os participantes têm a oportunidade de refletir sobre suas experiências, integrar aspectos do inconsciente e desenvolver estratégias para uma convivência mais equilibrada e autêntica.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ação Social</title>
-      <link>http://localhost:63452/personal-website-hugo/acao-social/</link>
+      <link>http://localhost:1313/personal-website-hugo/acao-social/</link>
       <pubDate>Thu, 13 Mar 2025 08:16:34 +1300</pubDate>
-      <guid>http://localhost:63452/personal-website-hugo/acao-social/</guid>
+      <guid>http://localhost:1313/personal-website-hugo/acao-social/</guid>
       <description>&lt;p&gt;Acreditamos que o acesso à saúde mental é um direito de todos. Com esse compromisso, desenvolvemos iniciativas que tornam nossos serviços mais acessíveis para a comunidade e para os profissionais em início de carreira.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Atendimento Psicológico com Valores Reduzidos&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Oferecemos sessões de psicoterapia de alta qualidade com valores reduzidos, permitindo que um número maior de pessoas tenha acesso a um cuidado emocional qualificado, mesmo em momentos de vulnerabilidade.&lt;/p&gt;
@@ -29,27 +52,27 @@
     </item>
     <item>
       <title>Atendimento</title>
-      <link>http://localhost:63452/personal-website-hugo/atendimento/</link>
+      <link>http://localhost:1313/personal-website-hugo/atendimento/</link>
       <pubDate>Wed, 12 Mar 2025 22:49:57 +1300</pubDate>
-      <guid>http://localhost:63452/personal-website-hugo/atendimento/</guid>
-      <description>&lt;p&gt;Na nossa clínica, oferecemos um atendimento psicológico humanizado e personalizado, pensado para atender as necessidades específicas de cada pessoa – seja adulto, adolescente ou criança – além de contar com abordagens complementares como a arteterapia.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Para Adultos e Adolescentes&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Realizamos sessões individuais (e, quando indicado, em grupo) com profissionais capacitados e atualizados, utilizando métodos que combinam técnicas baseadas em evidências e abordagens integrativas. Nosso objetivo é promover o autoconhecimento, reduzir sintomas de ansiedade, depressão e outras dificuldades emocionais, além de fortalecer as relações interpessoais.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/personal-website-hugo/atendimento/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Atendimento a crianças, adolescentes e adultos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Nossos psicólogos possuem sólida formação acadêmica e ampla experiência para oferecer um espaço seguro de acolhimento, cuidado e desenvolvimento para crianças, adolescentes e adultos de qualquer idade.&lt;/p&gt;
+&lt;p&gt;No Instituto/Núcleo XXX, adotamos uma abordagem fundamentada nos princípios da psicologia analítica, também conhecida como psicologia junguiana, integrando conhecimentos contemporâneos baseados em evidências científicas. Promovemos uma compreensão profunda dos processos psíquicos, comportamentais e relacionais de cada pessoa, visando à construção de um viver mais saudável.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Supervisão</title>
-      <link>http://localhost:63452/personal-website-hugo/supervisao/</link>
+      <link>http://localhost:1313/personal-website-hugo/supervisao/</link>
       <pubDate>Wed, 12 Mar 2025 22:49:07 +1300</pubDate>
-      <guid>http://localhost:63452/personal-website-hugo/supervisao/</guid>
+      <guid>http://localhost:1313/personal-website-hugo/supervisao/</guid>
       <description>&lt;p&gt;Reconhecendo a importância do constante aprimoramento na prática clínica, nossa clínica oferece um programa de supervisão clínica destinado a apoiar psicólogos em seu desenvolvimento profissional e na qualidade dos atendimentos.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Supervisão em Grupo&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Este espaço colaborativo permite a troca de experiências entre profissionais, a discussão de casos e a construção coletiva de estratégias. A supervisão em grupo promove a reflexão sobre os desafios do cotidiano clínico e o fortalecimento de uma rede de apoio entre colegas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contato</title>
-      <link>http://localhost:63452/personal-website-hugo/contato/</link>
+      <link>http://localhost:1313/personal-website-hugo/contato/</link>
       <pubDate>Wed, 12 Mar 2025 22:46:39 +1300</pubDate>
-      <guid>http://localhost:63452/personal-website-hugo/contato/</guid>
+      <guid>http://localhost:1313/personal-website-hugo/contato/</guid>
       <description>&lt;p&gt;Atendemos nos bairros: [lista de bairros].&lt;/p&gt;
 &lt;h2 id=&#34;entre-em-contato&#34;&gt;Entre Em Contato&lt;/h2&gt;
 &lt;p&gt;Texto.&lt;/p&gt;
@@ -61,10 +84,11 @@
     </item>
     <item>
       <title>Quem Somos</title>
-      <link>http://localhost:63452/personal-website-hugo/quem-somos/</link>
+      <link>http://localhost:1313/personal-website-hugo/quem-somos/</link>
       <pubDate>Wed, 12 Mar 2025 22:31:11 +1300</pubDate>
-      <guid>http://localhost:63452/personal-website-hugo/quem-somos/</guid>
-      <description>&lt;p&gt;Aqui você pode contar a história da clínica, apresentar o Doug e a equipe.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/personal-website-hugo/quem-somos/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Quem Somos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;O Instituto XXXXX nasceu em 2020, fruto do encontro de um grupo de psicólogos com atuação clínica diversa e orientados pela abordagem da psicologia analítica. Desde o início, cuidamos de aliar nossa sólida formação acadêmica com os conhecimentos adquiridos ao longo da prática profissional, sempre atentos à complexa realidade psicossocial brasileira. Em nosso espaço, ciência e arte caminham lado a lado, nutrindo nosso fazer clínico no atendimento psicológico a pessoas de todas as idades e realidades.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

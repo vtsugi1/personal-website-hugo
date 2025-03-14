@@ -4,18 +4,14 @@ draft = false
 title = 'Atendimento'
 +++
 
-Na nossa clínica, oferecemos um atendimento psicológico humanizado e personalizado, pensado para atender as necessidades específicas de cada pessoa – seja adulto, adolescente ou criança – além de contar com abordagens complementares como a arteterapia.
+**Atendimento a crianças, adolescentes e adultos**
 
-**Para Adultos e Adolescentes**
+Nossos psicólogos possuem sólida formação acadêmica e ampla experiência para oferecer um espaço seguro de acolhimento, cuidado e desenvolvimento para crianças, adolescentes e adultos de qualquer idade.
 
-Realizamos sessões individuais (e, quando indicado, em grupo) com profissionais capacitados e atualizados, utilizando métodos que combinam técnicas baseadas em evidências e abordagens integrativas. Nosso objetivo é promover o autoconhecimento, reduzir sintomas de ansiedade, depressão e outras dificuldades emocionais, além de fortalecer as relações interpessoais.
+No Instituto/Núcleo XXX, adotamos uma abordagem fundamentada nos princípios da psicologia analítica, também conhecida como psicologia junguiana, integrando conhecimentos contemporâneos baseados em evidências científicas. Promovemos uma compreensão profunda dos processos psíquicos, comportamentais e relacionais de cada pessoa, visando à construção de um viver mais saudável.
 
-**Para Crianças**
+Nossa equipe conduz o processo terapêutico com sensibilidade às singularidades e ao tempo de cada indivíduo. A psicoterapia ocorre por meio do diálogo reflexivo sobre vivências, memórias, sonhos e perspectivas futuras, possibilitando profundo autoconhecimento e escolhas alinhadas à autenticidade pessoal.
 
-O atendimento infantil é realizado de forma cuidadosa e acolhedora, com a participação ativa da família. Através de entrevistas e avaliações, elaboramos um plano terapêutico que respeita as singularidades de cada criança, contribuindo para um desenvolvimento emocional saudável.
+O trabalho psicoterápico para adultos é indicado em momentos de instabilidade, mudanças significativas ou diante de dificuldades como estados depressivos, ansiedade, confusão mental e outros transtornos. Além disso, pode também ser uma rica experiência de desenvolvimento pessoal, rumo a uma vida mais plena.
 
-**Arteterapia**
-
-Utilizamos a expressão artística como ferramenta terapêutica para facilitar a comunicação de sentimentos e experiências que podem ser difíceis de expressar verbalmente. Essa abordagem permite que os clientes explorem sua criatividade e encontrem novas formas de lidar com desafios emocionais.
-
-Todos os nossos atendimentos podem ser realizados tanto presencialmente quanto online, sempre garantindo a confidencialidade e o cuidado ético que você merece.
+Para crianças, além das indicações acima, a psicoterapia também pode ser uma aliada na superação de  dificuldades do desenvolvimento de ordem cognitiva, emocional e física. Para adolescentes, também auxiliamos na consolidação identitária e reorganização psíquica, abordando tanto desafios típicos do desenvolvimento quanto demandas clínicas que exigem intervenções mais estruturadas.
