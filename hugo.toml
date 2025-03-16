@@ -2,7 +2,6 @@ baseURL = 'https://vtsugi1.github.io/'
 languageCode = 'pt-BR'
 title = 'Clínica de Psicologia'
 theme = 'quint'
-relativeURLs = true
 
 [params]
   author = 'Clínica de Psicologia [Nome]'
