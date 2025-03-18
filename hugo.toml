@@ -1,4 +1,4 @@
-baseURL = 'https://vtsugi1.github.io/'
+baseURL = 'https://vtsugi1.github.io/personal-website-hugo/'
 languageCode = 'pt-BR'
 title = 'Clínica de Psicologia'
 theme = 'quint'
